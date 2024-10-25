@@ -1,13 +1,12 @@
-# Simple Calculator
+# Advanced Calculator
 
-This is a basic calculator program written in Java that performs simple arithmetic operations: addition, subtraction, multiplication, and division.
+This is an advanced calculator program written in Java that performs a variety of arithmetic operations, including addition, subtraction, multiplication, division, exponentiation, square roots, and basic trigonometric functions (sine, cosine, and tangent).
 
 ## Features
 
-- Prompts the user to enter two numbers.
-- Allows the user to choose an arithmetic operation.
-- Displays the result of the operation.
-- Handles division by zero gracefully.
+- Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+- Supports advanced operations: exponentiation, square root, sine, cosine, and tangent.
+- Handles division by zero and invalid inputs gracefully.
 
 ## Prerequisites
 
